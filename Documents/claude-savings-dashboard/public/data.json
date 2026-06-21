@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-06-22T00:27:07.524842",
+  "period_start": "2025-11-28",
+  "turns": 36787,
+  "input_tokens": 7548314,
+  "output_tokens": 45418890,
+  "cache_read_tokens": 14112543644,
+  "total_tokens": 14165510848,
+  "api_cost_usd": 24688.46,
+  "paid_usd": 707,
+  "saved_usd": 23981.46,
+  "saved_thb": 839351,
+  "paid_thb": 24745,
+  "multiplier": 34.9,
+  "months": 7,
+  "projects": [
+    {
+      "name": "KROZTER Manager",
+      "files": 128,
+      "nodes": 1713,
+      "edges": 12481
+    },
+    {
+      "name": "hr-uct-ready",
+      "files": 126,
+      "nodes": 842,
+      "edges": 9210
+    },
+    {
+      "name": "the-alisons-hr",
+      "files": 155,
+      "nodes": 1123,
+      "edges": 12460
+    },
+    {
+      "name": "RoastSync",
+      "files": 58,
+      "nodes": 766,
+      "edges": 5013
+    },
+    {
+      "name": "unroasted.io",
+      "files": 66,
+      "nodes": 324,
+      "edges": 2751
+    },
+    {
+      "name": "BizFlow",
+      "files": 26,
+      "nodes": 172,
+      "edges": 1199
+    },
+    {
+      "name": "AirSense by Krozter",
+      "files": 21,
+      "nodes": 95,
+      "edges": 550
+    },
+    {
+      "name": "+ 10 more",
+      "files": null,
+      "nodes": null,
+      "edges": null
+    }
+  ],
+  "tools": [
+    {
+      "name": "RTK",
+      "desc": "บีบ terminal output",
+      "saved_tokens": 67500,
+      "pct": 35,
+      "cmds": 712
+    },
+    {
+      "name": "Caveman",
+      "desc": "บีบ output ของ Claude",
+      "saved_pct": 65,
+      "turns": 211
+    },
+    {
+      "name": "code-review-graph",
+      "desc": "อ่านเฉพาะไฟล์ที่เกี่ยว",
+      "repos": 17
+    }
+  ],
+  "invoices": [
+    {
+      "date": "Jun 2026",
+      "usd": 100
+    },
+    {
+      "date": "May 2026",
+      "usd": 100
+    },
+    {
+      "date": "Apr 2026",
+      "usd": 100
+    },
+    {
+      "date": "Mar 2026",
+      "usd": 100
+    },
+    {
+      "date": "Feb 2026",
+      "usd": 100
+    },
+    {
+      "date": "Jan 2026",
+      "usd": 100
+    },
+    {
+      "date": "Dec 2025",
+      "usd": 86.59
+    },
+    {
+      "date": "Nov 2025",
+      "usd": 21.4
+    }
+  ]
+}
